@@ -32,7 +32,7 @@ Baseado em São Paulo, BR.
 
 ## Em desenvolvimento
 
-- Parser de PE (Portable Executable) em C
+- dll injection manual in C
 
 ---
 
