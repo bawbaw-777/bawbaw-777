@@ -32,7 +32,7 @@ Baseado em São Paulo, BR.
 
 ## Em desenvolvimento
 
-- dll injection manual in C
+- DLL INJECTOR MANUAL IN C
 
 ---
 
