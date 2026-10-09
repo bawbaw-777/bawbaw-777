@@ -16,6 +16,7 @@ Baseado em São Paulo, BR.
 - Sistemas operacionais e internals do Windows
 - Offensive security / engenharia reversa
 - Ferramentas de baixo nível
+- Automação de tarefas
 
 ---
 
